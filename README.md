@@ -82,10 +82,10 @@ I'm a QA engineer with startup experience working on a complex commercial produc
 
  ### 💻 Courses completed:
 
-| Course                        |       Date        |
-|-------------------------------|:-----------------:|
-| IT Academy/Functional testing | 09/2024 - 01/2025 |
-
+| Course                                          |       Date        |
+|-------------------------------------------------|:-----------------:|
+| IT Academy/Functional testing                   | 09/2024 - 01/2025 |
+| Stepik/Software testing:Postman for API testing |      12/2024      |
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=marina-frolova)
